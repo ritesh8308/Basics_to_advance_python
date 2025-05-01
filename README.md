@@ -23,3 +23,22 @@ Practice set 02:
 ‘b’ or not. Take a = 34 and b = 80 
 5. Write a python program to find an average of two numbers entered by the user. 
 6. Write a python program to calculate the square of a number entered by the user.
+
+
+
+chap03:   STRINGS
+
+Practice set 03:
+1. Write a python program to display a user entered name followed by Good 
+Afternoon using input () function. 
+2. Write a program to fill in a letter template given below with name and date. 
+letter = '''  
+Dear <|Name|>, 
+You are selected! 
+<|Date|> 
+''' 
+3. Write a program to detect double space in a string. 
+4. Replace the double space from problem 3 with single spaces. 
+5. Write a program to format the following letter using escape sequence 
+characters. 
+letter = "Dear Harry, this python course is nice. Thanks!"
